@@ -21,4 +21,4 @@ A React application that allows users to convert amounts between different curre
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/shriwar/currency-convertor.git
